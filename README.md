@@ -28,7 +28,7 @@
 
 - Dicionário attack with mask:
 
-      $script -Domain "test.com" -ComputerList "SERVIDOR1,SERVIDOR2" -DictionaryFile "dictionary.txt" -Mask "user?123"
+      $script -Domain "test.com" -ComputerList "SERVER1,SERVER2" -DictionaryFile "dictionary.txt" -Mask "user?123"
 
 - Testing Service Accounts:
 
